@@ -7,6 +7,8 @@ bibliography: references.bib
 
 ## Literature review
 
+Another study, @ochieng2022
+
 Hello @brittain2018
 
 **To establish the effectiveness of adolescents and youth friendly services for addressing teenage pregnancy in Siaya county.**
@@ -14,5 +16,7 @@ Hello @brittain2018
 Quarto enables you to weave @evelia2023 together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
 
 **To assess the knowledge of comprehensive sexual and reproductive health information services amongst teenagers.**
+
+@
 
 **To suggest measures for addressing gaps in reducing teenage pregnancy in Siaya county**
