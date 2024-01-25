@@ -9,14 +9,22 @@ bibliography: references.bib
 
 Another study, @ochieng2022
 
-Hello @brittain2018
-
 **To establish the effectiveness of adolescents and youth friendly services for addressing teenage pregnancy in Siaya county.**
 
-Quarto enables you to weave @evelia2023 together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+KDHS(2014)
+
+Data from KDHS (2014) indicates that in Siaya county, 17.2% of teenage girls between the ages of 15-19 have begun child bearing.
+
+KDHS(2022) In Siaya county, 20.9% aged between 15-19 have began child bearing.
 
 **To assess the knowledge of comprehensive sexual and reproductive health information services amongst teenagers.**
 
-@
+KDHS (2014)
+
+Knowledge of contraceptive method
+
+100% of currently married women and currently married men aged between 15 - 49 have heard of at least one contraceptive method.
+
+Contraceptive prevalence rate among sexually active unmarried girls aged 15-19 years is 49%. The rate of condom use is 61% and 75% among young men and young women respectively. Comprehensive knowledge of HIV among youth stands at 57% for young women and 64% for young men.
 
 **To suggest measures for addressing gaps in reducing teenage pregnancy in Siaya county**
