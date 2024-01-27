@@ -7,7 +7,7 @@ bibliography: references.bib
 
 ## Literature review
 
-Another study, @ochieng2022
+Adolescent pregnancy, defined as the occurrence of pregnancy in girls aged 10--19 years, continues to be a global phenomenon, especially in sub-Saharan Africa.
 
 **To establish the effectiveness of adolescents and youth friendly services for addressing teenage pregnancy in Siaya county.**
 
@@ -16,6 +16,8 @@ KDHS(2014)
 Data from KDHS (2014) indicates that in Siaya county, 17.2% of teenage girls between the ages of 15-19 have begun child bearing.
 
 KDHS(2022) In Siaya county, 20.9% aged between 15-19 have began child bearing.
+
+Only about a quarter (26%) of the total personnel surveyed were trained on youth-friendly service provision. @ochieng2022
 
 **To assess the knowledge of comprehensive sexual and reproductive health information services amongst teenagers.**
 
@@ -27,4 +29,12 @@ Knowledge of contraceptive method
 
 Contraceptive prevalence rate among sexually active unmarried girls aged 15-19 years is 49%. The rate of condom use is 61% and 75% among young men and young women respectively. Comprehensive knowledge of HIV among youth stands at 57% for young women and 64% for young men.
 
+@ochieng2022 Almost half of the health facilities surveyed had no plan of conducting outreach for the young people (47.83%), while 52.17 had outreach plans for young people.
+
+Utilization of adolescent reproductive health services in Bondo sub-county, Siaya county, Kenya Dorothy Atieno Tshombe1, Richard Kimetto2, Roselyn Sarah Odhiambo3, Robert Kiprono Koech4, Gladys A Obel
+
+The study found out that majority of the adolescents received information on ASRH in their schools. Consequently, there is a higher likelihood of utilization of the ASRHS, especially the morning after pills.
+
 **To suggest measures for addressing gaps in reducing teenage pregnancy in Siaya county**
+
+@
