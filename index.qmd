@@ -5,36 +5,12 @@ editor: visual
 bibliography: references.bib
 ---
 
-## Literature review
+## Literature Review.
 
-Adolescent pregnancy, defined as the occurrence of pregnancy in girls aged 10--19 years, continues to be a global phenomenon, especially in sub-Saharan Africa.
+Teenage pregnancy, defined as pregnancy in girls between the ages of 10 - 19 years continues to be a challenge in Siaya county and even in Kenya. Over the years, there has been a raft of measures and interventions intended at reducing teenage pregnancy in Kenya by the national government, county governments and also by partners at sub-national level. One of the most notable measures was the coming to life of the National Guidelines for Provision of Adolescent and Youth Friendly Services in Kenya, 2016.
 
-**To establish the effectiveness of adolescents and youth friendly services for addressing teenage pregnancy in Siaya county.**
+The KDHS(2014) data indicated that in Siaya county, 17.2% of teenage girls between 15 - 19 years had begun child bearing. In the subsequent report KDHS(2022) indicated that 20.9% of girls between 15 - 19 years had begun child bearing in Siaya county. This increase is in spite of the existence of the National Guidelines for Provision of Adolescent and Youth Friendly Services in Kenya, 2016. This increase thus implied that the document was not effective in curbing teenage pregnancy in Siaya county.
 
-KDHS(2014)
+The increase in the proportion of teenage pregnancy could therefore be a consequence of other factors not addressed by the National Guidelines for Provision of Adolescent and Youth Friendly Services in Kenya, 2016. @ochieng2022 in a study investigating the availability and readiness of Health facilities to deliver Sexual and Reproductive Health for young people found that only about a quarter (26%) of the total personnel surveyed were trained on youth-friendly services, obviously a very low proportion. It was also found that almost half (47.83%) of the health facilities surveyed had no plan of conducting outreach for young people.
 
-Data from KDHS (2014) indicates that in Siaya county, 17.2% of teenage girls between the ages of 15-19 have begun child bearing.
-
-KDHS(2022) In Siaya county, 20.9% aged between 15-19 have began child bearing.
-
-Only about a quarter (26%) of the total personnel surveyed were trained on youth-friendly service provision. @ochieng2022
-
-**To assess the knowledge of comprehensive sexual and reproductive health information services amongst teenagers.**
-
-KDHS (2014)
-
-Knowledge of contraceptive method
-
-100% of currently married women and currently married men aged between 15 - 49 have heard of at least one contraceptive method.
-
-Contraceptive prevalence rate among sexually active unmarried girls aged 15-19 years is 49%. The rate of condom use is 61% and 75% among young men and young women respectively. Comprehensive knowledge of HIV among youth stands at 57% for young women and 64% for young men.
-
-@ochieng2022 Almost half of the health facilities surveyed had no plan of conducting outreach for the young people (47.83%), while 52.17 had outreach plans for young people.
-
-Utilization of adolescent reproductive health services in Bondo sub-county, Siaya county, Kenya Dorothy Atieno Tshombe1, Richard Kimetto2, Roselyn Sarah Odhiambo3, Robert Kiprono Koech4, Gladys A Obel
-
-The study found out that majority of the adolescents received information on ASRH in their schools. Consequently, there is a higher likelihood of utilization of the ASRHS, especially the morning after pills.
-
-**To suggest measures for addressing gaps in reducing teenage pregnancy in Siaya county**
-
-@
+Regarding teenagers' knowledge on comprehensive sexual and reproductive health information services amongst teenagers, KDHS(2014) reported that 100% of currently married women and men aged between 15 - 49 years old have at least heard about a contraceptive method. This statistic does not however capture the unmarried teenagers and the teenagers below the age of 15 years but the finding is supported by @Tshombe et al. (2020) which found that majority of the teenagers received information on ASRH in their schools thus implying that teenagers are aware of sexual and reproductive health information.
