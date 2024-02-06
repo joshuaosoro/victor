@@ -7,7 +7,16 @@ bibliography: references.bib
 
 ## Introduction
 
-hello
+1. Gap and background info about topic.
+
+2. key references to related work elsewhere.
+
+3. Why gap needs filling?
+
+4. summary of how study attempts to fill the gap.
+
+5. clarification of terms, definitions, or abbreviations.
+
 
 ## Literature Review.
 
