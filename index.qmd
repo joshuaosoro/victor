@@ -7,11 +7,7 @@ bibliography: references.bib
 
 ### Acronyms and Abbreviations
 
-AYFS      Adolescent and Youth Friendly Services
-HIV       Human Immuno-deficiency Virus
-KDHS      Kenya Demographic Health Survey
-MOH       Ministry of Health
-WHO       World Health organization
+AYFS Adolescent and Youth Friendly Services HIV Human Immuno-deficiency Virus KDHS Kenya Demographic Health Survey MOH Ministry of Health WHO World Health organization
 
 ### Definition of Terms
 
