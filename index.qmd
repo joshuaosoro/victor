@@ -9,7 +9,7 @@ bibliography: references.bib
 
 AYFS Adolescent and Youth Friendly Services
 
-HIV Human Immuno-deficiency Virus 
+HIV Human Immuno-deficiency Virus
 
 KDHS Kenya Demographic Health Survey MOH Ministry of Health
 
