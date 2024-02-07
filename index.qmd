@@ -7,15 +7,19 @@ bibliography: references.bib
 
 ### Acronyms and Abbreviations
 
-AYFS Adolescent and Youth Friendly Services HIV Human Immuno-deficiency Virus KDHS Kenya Demographic Health Survey MOH Ministry of Health WHO World Health organization
+AYFS Adolescent and Youth Friendly Services 
+
+HIV Human Immuno-deficiency Virus KDHS Kenya Demographic Health Survey MOH Ministry of Health 
+
+WHO World Health organization
 
 ### Definition of Terms
 
 Adolescent: Person aged between 10 - 19 years old.
 
-Teenager: Person aged between 13 - 19 years old.
-
 Health: Complete physical, mental and social well-being.
+
+Teenager: Person aged between 13 - 19 years old.
 
 ## Introduction
 
