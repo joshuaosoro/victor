@@ -29,6 +29,12 @@ Health: Complete physical, mental and social well-being.
 
 Teenager: Person aged between 13 - 19 years old.
 
+Young people: Persons aged between 10 - 24 years as defined by WHO.
+
+Youth: Persons aged between 10 - 24 years as defined by WHO.
+
+For the purpose of this study, the terms will be used according to these definitions. The terms youth and young people are used interchangably.
+
 ## Introduction
 
 ### Background
