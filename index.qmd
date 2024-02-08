@@ -39,18 +39,13 @@ For the purpose of this study, the terms will be used according to these definit
 
 ### Background
 
-1.  Gap and background info about topic.
-2.  key references to related work elsewhere.
-3.  Why gap needs filling?
-4.  summary of how study attempts to fill the gap.
+Teenage pregnancy is a subject of interest not only because of the social implications it has for the young people who make up a significant proportion of the population but also because of the medical implications it has as elucidated in studies like @boia2016medical. The MOH came up with the 2016 National Guideline for the provision of AYFS in a bid to improve SRH health services especially for the youth. Considering the importance of teenage pregnancy, it is imperative to evaluate the progress that has been made so far since this document came into place. It is noteworthy that there has not been research into the impact that the 2016 National Guideline for provision of AYFS has had on teenage pregnancy to be specific at Siaya county and even at the National level.
 
-Teenage pregnancy is a subject of interest not only because of the social implications it has for the young people who make up a significant proportion of the population but also but also because of the medical implications as has been elucidated in studies like @boia2016medical. The MOH came up with the 2016 National Guideline for the provision of AYFS in a bid to improve health services especially for the youth. Considering the importance of teenage pregnancy, it is imperative to evaluate the progress that has been made so far since this document came into place.
-
-One of the methods of ascertaining this progress is by relying on the data provided periodically by the KDHS on childbearing by girls between the age of 15 - 19 years old. It should however be noted that this age bracket ignores a significant portion of the population of girls below the age of 15 years old who have also reported a lot of pregnancy cases. Because of this unaccounted segment of the population, it is not sufficient to rely on the KDHS data which only accounts for pregnancies for teenagers between the age of 15 - 19 years.
+One of the methods of ascertaining this progress is by relying on the data provided periodically by the KDHS on childbearing by girls between the age of 15 - 19 years old. It should however be noted that this age bracket ignores a significant portion of the population of girls below the age of 15 years old who have also reported a lot of pregnancy cases. Because of this unaccounted segment of the population, it is not sufficient to rely on the KDHS data which only accounts for pregnancies for teenagers between the age of 15 - 19 years. Additionally, it is important to discern the impact that this document has had in Siaya county given that Siaya county has its own unique challenges.
 
 This study investigates the influence of the 2016 National Guideline for the Provision of AYFS in reducing teenage pregnancy in Siaya county among those between the age of 13 - 19 years by conducting qualitative studies targeting a sample of key stakeholders like medics, parents and also girls between the ages of 13 - 19 years old. The results from this study will give a clearer picture to the stakeholders regarding the influence this document has had in regards to teenage pregnancy; the information that teenagers have about comprehensive sexual and reproductive health and consequently put forward measures to address the gaps that exist to address teenage pregnancy in Siaya county. Also, this study will inform targeted intervention programs to reduce teenage pregnancies in Siaya county.
 
-### Justification of the study.
+### Justification for the study.
 
 KDHS(2022) has shown that, in Siaya county, 20.9% of the girls aged between 15 - 19 years old had begun child bearing. This figure is higher than 17.2% which was reported by KDHS(2014) thus raising fears over the effectiveness of the National Guidelines for Provision of Adolescent Youth-Friendly Guidelines (2016) in containing teenage pregnancies.
 
