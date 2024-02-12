@@ -37,7 +37,7 @@ For the purpose of this study, the terms will be used according to these definit
 
 ## Introduction
 
-### Background
+### Background of the Study
 
 Teenage pregnancy is a subject of interest not only because of the social implications it has for the young people who make up a significant proportion of the population but also because of the medical implications it has as elucidated in studies like @boia2016medical. The MOH came up with the 2016 National Guideline for the provision of AYFS in a bid to improve SRH health services especially among the youth. Considering the importance of teenage pregnancy, it is imperative to evaluate the progress that has been made so far since this document came into place. It is worth noting that there has not been research into the impact that the 2016 National Guideline for provision of AYFS has had on teenage pregnancy in Siaya county and even at the National level.
 
@@ -77,7 +77,7 @@ This study is organized into five chapters: Introduction, Literature Review, Met
 
 Chapter One (Introduction)
 
-Contains
+Contains Background of the Study; Justification for the Study; Purpose of the Study; Objectives; Research Questions; Significance of the study; Scope of the Study; Organization of the Study.
 
 Chapter Two (Literature Review)
 
