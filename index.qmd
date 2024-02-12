@@ -53,11 +53,37 @@ This study therefore aims to establish the effectiveness of this guideline with 
 
 ### Purpose of the study
 
-#### Objectives
+### Objectives
 
 1.  To establish the effectiveness of adolescents and youth friendly services for addressing teenage pregnancy in Siaya county.
 2.  To assess the knowledge of comprehensive sexual and reproductive health information services amongst teenagers in Siaya county.
 3.  To suggest measures for addressing gaps in reducing teenage pregnancy in Siaya county.
+
+### Research Questions
+
+1.  What is the effectiveness of adolescent and youth friendly services for addressing teenage pregnancies in Siaya county?
+2.  What is the level of knowledge of comprehensive sexual and reproductive health information services amongst teenagers in Siaya county?
+3.  What are some of the measures for addressing gaps in reducing teenage pregnancy in Siaya county?
+
+### Significance of the Study
+
+### Scope of the Study
+
+This study will be carried out in Siaya county; the county has six sub-counties: Alego, Usonga, Bondo, Ugenya, Ugunja, Gem and Rarieda. **PLEASE ADD MORE INFO HERE**
+
+### Organization of the Study
+
+This study is organized into five chapters: Introduction, Literature Review, Methodology, Discussion of Results and Conclusion.
+
+Chapter One (Introduction)
+
+Contains
+
+Chapter Two (Literature Review)
+
+Contains Introduction; Standardization of the provision of quality AYSRH services at all levels; Definition of essential package of health services to be provided to adolescents and youth at service delivery points; Increasing access to comprehensive sexual and reproductive health information and services among adolescent and youth; Strengthening collection and utilization of age and sex disaggregated data on sexual and reproductive health among adolescents and youth; Summary.
+
+**PLEASE ADD MORE INFO HERE**
 
 ## Literature Review.
 
@@ -65,11 +91,11 @@ This study therefore aims to establish the effectiveness of this guideline with 
 
 Teenage pregnancy, defined as pregnancy in girls between the ages of 13 - 19 years continues to be a challenge in Siaya county and even in Kenya. Over the years, there has been a raft of measures and interventions intended at reducing teenage pregnancy in Kenya by the MOH, county governments and also by partners both at national and sub-national level.One of the most notable measures was the coming to life of the National Guidelines for Provision of AYFS in Kenya, 2016. This was an attempt at addressing among other reproductive issues, the issue of teenage pregnancy by aligning AYSRH provision in Kenya to international standards and hence encourage uptake of AYSRH services. This chapter looks at studies that have been done on the progress made on the objectives contained in the National Guidelines for Provision of Adolescent and Youth Friendly Services in Kenya, 2016.
 
-### Standardization of the provision of quality AYSRH services at all levels 
+### Standardization of the provision of quality AYSRH services at all levels
 
 One of the objectives of the National Guidelines for Provision of Adolescent and Youth Friendly Services in Kenya, 2016 was to standardize the provision of quality AYSRH Services at all levels by ensuring reproductive health service provision for adolescents and youth are equitable; accessible; acceptable; appropriate and effective as outlined in @World2019. This would then encourage uptake of SRH services among the youth. In turn, this would among other things, translate to a reduction in teenage pregnancies. A study in Western Kenya by @wafula2022 investigating the availability and readiness of health facilities to deliver sexual and reproductive health services for young people found that only a small proportion of healthcare personnel providing AYSRH to young people have actually received training on the same. This lack of training for healthcare personnel on AYSRH makes the Guideline less likely to achieve its objectives because of lack of skills by the service providers to handle young people appropriately. Having conducted the study in the larger Western Kenya, the results by @wafula2022 may not mirror the true picture in Siaya county because healthcare is a devolved function and thus disparities do exist across the counties. Furthermore, the study did not investigate the impact that lack of training on provision of AYSRH among healthcare providers had specifically when it comes to teenage pregnancy. This gap thus necessitates an evaluation in Siaya county independent of the other counties.
 
-### Definition of essential package of health services to be provided to adolescents and youth at service delivery points 
+### Definition of essential package of health services to be provided to adolescents and youth at service delivery points
 
 The second objective of the National Guidelines for Provision of AYFS in Kenya, 2016 - defining the essential package of health services to be provided to adolescents and youth at service delivery points; @ochieng2022, while investigating availability and readiness of health facilities to deliver AYSRH for young people in Western Kenya, including Siaya county, established that only a quarter (26%) of the total personnel surveyed were trained on youth-friendly services; up to 17% of the health facilities did not provide information on SRH services and this means that young people are not aware of the available services. The same report also found that almost half (47.83%) of the health facilities surveyed had no plan of conducting outreach for young people, which is an important ingredient in getting services to the most vulnerable teenagers according to @denno2015. There is therefore potentially a huge possibility that a significant proportion of youth remain unaware of the available SRH health services available at service delivery points because of these gaps. Additionally, the result of this investigation was a generalization of the larger Western Kenya and not Siaya county specifically, consequently, it is not possible to get a clear picture of the influence that the National Guideline for provision of adolescent and youth friendly services, 2016 has had in Siaya county from this investigation.
 
@@ -80,5 +106,7 @@ The National Guidelines for Provision of Adolescent and Youth Friendly Services 
 ### Strengthening collection and utilization of age and sex disaggregated data on sexual and reproductive health among adolescents and youth
 
 This objective envisaged the collection of appropriate data at service delivery points. This data would then be used to inform more appropriate and targeted SRH service provision to youth and adolescents. Additionally, this data would also come in handy in supporting continuous improvement of SRH services.
+
+### Summary
 
 Despite the positive progress reported by various studies, the KDHS(2014) and KDHS(2022) indicated that 17.2% and 20.9% of girls between 15 - 19 years respectively had begun child bearing in Siaya county. This upward trend casts doubts on the effectiveness of the 2016 National Guidelines for Provision of AYFS in Kenya in reducing teenage pregnancies in Siaya county. However, it should be noted that this statistic did not include the entire age bracket that defines teenagers, 13 - 19 years old. As such, it cannot be concluded whether or not the 2016 National Guidelines for Provision of AYFS in Kenya was effective in reducing teenage pregnancies with regard to Siaya county thus far.
