@@ -20,6 +20,40 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
+/* CSS for syntax highlighting */
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
 /* CSS for citations */
 div.csl-bib-body { }
 div.csl-entry {
@@ -169,6 +203,51 @@ div.csl-indent {
 <section id="summary" class="level3">
 <h3 class="anchored" data-anchor-id="summary">Summary</h3>
 <p>Despite the positive progress reported by various studies, the KDHS(2014) and KDHS(2022) indicated that 17.2% and 20.9% of girls between 15 - 19 years respectively had begun child bearing in Siaya county. This upward trend casts doubts on the effectiveness of the 2016 National Guidelines for Provision of AYFS in Kenya in reducing teenage pregnancies in Siaya county. However, it should be noted that this statistic did not include the entire age bracket that defines teenagers, 13 - 19 years old. As such, it cannot be concluded whether or not the 2016 National Guidelines for Provision of AYFS in Kenya was effective in reducing teenage pregnancies with regard to Siaya county thus far.</p>
+</section>
+<section id="conceptual-framework" class="level3">
+<h3 class="anchored" data-anchor-id="conceptual-framework">Conceptual framework</h3>
+<p>Independent variables</p>
+<p>Adolescents’ and youth health literacy</p>
+<ul>
+<li>Facilities implement systems to make youth knowledgeable about where and when to obtain SRH services</li>
+</ul>
+<p>Stakeholder support</p>
+<ul>
+<li>Facility implements systems to ensure stakeholders recognize value of providing SRH services to youth</li>
+</ul>
+<p>Appropriate package of services</p>
+<ul>
+<li>Facility provide a package of information, counselling, diagnostic and treatment that fulfill the needs of youth</li>
+</ul>
+<p>Providers’ competency</p>
+<ul>
+<li>providers demonstrate technical competencies required to provide effective SRH services to teenagers</li>
+</ul>
+<p>Facility characteristics</p>
+<ul>
+<li>convenient operating hours, welcoming and clean environment and maintain privacy and confidentiality. Facility has appropriate and relevant equipment to ensure effective service provision to teenagers</li>
+</ul>
+<p>Equity and non-discrimination</p>
+<ul>
+<li>provide data to all adolescents and youth irrespective of age, sex, marital status, level of education, ethnicity or other characteristics</li>
+</ul>
+<p>Data and quality improvement</p>
+<ul>
+<li>capture data on service utilization into MOH health information tools to support quality improvement</li>
+</ul>
+<p>Adolescents’ participation</p>
+<ul>
+<li>in planning, monitoring and evaluation of health services and decisions regarding their own care</li>
+</ul>
+<p>Dependent variables</p>
+<p>Effectiveness of youth friendly services in reducing teenage pregnancies</p>
+<p>% of youth rating facilities as effective in reducing teenage pregnancies</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a><span class="fu">require</span>(htmlTable)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stderr">
+<pre><code>Loading required package: htmlTable</code></pre>
+</div>
+</div>
 
 </section>
 </section>
