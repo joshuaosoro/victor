@@ -111,5 +111,4 @@ Despite the positive progress reported by various studies, the KDHS(2014) and KD
 
 ### Conceptual framework
 
-![conceptual framework](vic_crop.png)
-
+![](vic_crop.png)
