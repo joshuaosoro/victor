@@ -151,6 +151,36 @@ Effectiveness of youth friendly services in reducing teenage pregnancies
 
 \% of youth rating facilities as effective in reducing teenage pregnancies
 
-```{r}
-require(htmlTable)
+```{r echo=FALSE}
+library(ggplot2)
+```
+
+```{r echo=FALSE}
+data <- data.frame(x = c(0:17), y = c(0:17))
+
+# Create a ggplot object with an empty dataset
+ggplot(data, aes(x = x, y = y)) +
+  geom_blank() +
+  labs(title = "Null Canvas") +
+  annotate('text',x = 5,y = 1,label = "Adolescents' and youth health literacy") +
+  annotate('rect',xmin = 1,xmax = 9,ymin = 0.5,ymax = 1.5,alpha = .5,fill = "grey", col="black") +
+  annotate('text',x = 5,y = 3,label = "Stakeholder support") +
+  annotate('rect',xmin = 1,xmax = 9,ymin = 2.5,ymax = 3.5,alpha = .5,fill = "grey", col="black") +
+  annotate('text',x = 5,y = 5,label = "Appropriate package of services") +
+  annotate('rect',xmin = 1,xmax = 9,ymin = 4.5,ymax = 5.5,alpha = .5,fill = "grey", col="black") +
+  annotate('text',x = 5,y = 7,label = "Providers' competency") +
+  annotate('rect',xmin = 1,xmax = 9,ymin = 6.5,ymax = 7.5,alpha = .5,fill = "grey", col="black") +
+  annotate('text',x = 5,y = 9,label = "Facility characteristics") +
+  annotate('rect',xmin = 1,xmax = 9,ymin = 8.5,ymax = 9.5,alpha = .3,fill = "grey", col="black") +
+  annotate('text',x = 5,y = 11,label = "Equity and non-discrimination") +
+  annotate('rect',xmin = 1,xmax = 9,ymin = 10.5,ymax = 11.5,alpha = .5,fill = "grey", col="black") +
+  annotate('text',x = 5,y = 13,label = "Data and quality improvement") +
+  annotate('rect',xmin = 1,xmax = 9,ymin = 12.5,ymax = 13.5,alpha = .5,fill = "grey", col="black") +
+  annotate('text',x = 5,y = 15,label = "Adolescents' participation") +
+  annotate('rect',xmin = 1,xmax = 9,ymin = 14.5,ymax = 15.5,alpha = .5,fill = "grey", col="black") +
+  annotate('text',x = 17,y = 8,label = "Effectiveness of youth friendly services") +
+  annotate('rect',xmin = 17,xmax = 9,ymin = 7.5,ymax = 8.5,alpha = .5,fill = "grey", col="black") +  theme(axis.line = element_blank(),axis.text = element_blank(),axis.title = element_blank())
+```
+
+```{}
 ```
