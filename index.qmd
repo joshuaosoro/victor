@@ -29,7 +29,7 @@ Teenage pregnancy is a subject of interest not only because of the social implic
 
 Currently, one of the ways of ascertaining the influence of the 2016 National Guideline for provision of AYFS has had on teenage pregnancy in Siaya county is by relying on the data provided periodically by the KDHS on childbearing by girls between the age of 15 - 19 years old. It should however be noted that this age bracket ignores a significant portion of the population of girls below the age of 15 years old who are also vulnerable and have reported a lot of pregnancy cases. Because of this unaccounted segment of the population, it is not sufficient to rely on the KDHS data which only accounts for pregnancies for teenagers between the age of 15 - 19 years. Additionally, it is important to discern the impact that this document has had in Siaya county given that Siaya county has its own unique challenges.
 
-This study investigates the influence of the 2016 National Guideline for the Provision of AYFS in reducing teenage pregnancy in Siaya county among those between the age of 13 - 19 years by conducting qualitative studies targeting a sample of key stakeholders like medics, parents and also girls between the ages of 13 - 19 years old. The results from this study will give a clearer picture to the stakeholders regarding the influence this document has had in regards to teenage pregnancy; the information that teenagers have about comprehensive sexual and reproductive health and consequently put forward measures to address the gaps that exist to address teenage pregnancy in Siaya county. Also, this study will inform targeted intervention programs to reduce teenage pregnancies in Siaya county.
+This study investigates the influence of the 2016 National Guideline for the Provision of AYFS in reducing teenage pregnancy in Siaya county among those between the age of 13 - 19 years by conducting a qualitative study targeting a sample of key stakeholders like medics, parents and also teenagers between the ages of 13 - 19 years old. The results from this study will give a clearer picture to the stakeholders regarding the influence this document has had in regards to teenage pregnancy; the information that teenagers have about comprehensive sexual and reproductive health and consequently put forward measures to address the gaps that exist to address teenage pregnancy in Siaya county. Also, this study will inform targeted intervention programs to reduce teenage pregnancies in Siaya county.
 
 ### Statement of the Problem
 
@@ -123,9 +123,11 @@ One of the objectives of the National Guidelines for Provision of Adolescent and
 
 ### 7. Data and quality improvement
 
-This objective envisaged the collection of appropriate data at service delivery points. This data would then be used to inform more appropriate and targeted SRH service provision to youth and adolescents. Additionally, this data would also come in handy in supporting continuous improvement of SRH services.
+This objective envisaged the collection of appropriate data at service delivery points. This data would then be used to inform more appropriate and targeted SRH service provision to youth and adolescents. Additionally, this data would also come in handy in supporting continuous improvement of SRH services. @eilerts-spinelli2022
 
 ### 8. Adolescent participation
+
+In a survey involving 644 unmarried adolescent boys and 686 unmarried adolescent girls in Kenya, @erulkar2005 found that 18.4% of the boys and 19% of the girls considered adolescent participation in running health facilities as a very important characteristic of adolescent and youth friendly services. It is not clear to what extent adolescent participation is accommodated since no study has looked at this factor in the context of Siaya County.
 
 ### Summary
 
